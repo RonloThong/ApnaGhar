@@ -1,0 +1,52 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+body{
+    background: url('images/About.png') no-repeat;
+    background-size: cover;
+}
+.about{
+    width:1000px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    color: white;
+    
+}
+.about h1 {
+    font-size: 40px;
+    text-align: inherit;
+    margin: 40px 0;
+    
+}
+.about h2 {
+    font-size: 40px;
+    text-align: inherit;
+    margin: 40px 0;
+}
+.about h3 {
+    font-size: 20px;
+    text-align: inherit;
+    margin: 20px 0;
+}
+.about h4 {
+    font-size: 20px;
+    text-align: inherit;
+    margin: 20px 0;
+}
+.about h5 {
+    font-size: 20px;
+    text-align: inherit;
+    margin: 20px 0;
+}
+.about p{
+    font-size: 20px;
+    margin: 30px 0;
+}
+.fas{
+    color: aliceblue;
+}
